@@ -1,0 +1,16 @@
+# node_modules/
+node_modules/
+
+# Логи
+*.log
+
+# Файлы окружения
+.env
+
+# Кэш
+.DS_Store
+*.bak
+
+# Исключение любых папок с именем 'dist' или 'build'
+dist/
+build/
